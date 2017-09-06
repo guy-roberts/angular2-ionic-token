@@ -1,5 +1,15 @@
 ![Angular2-Token](assets/angular2-token-logo.png)
 
+# Angular2-IonicToken
+
+This is a fork of Angular2-Token, changed to work with Ionic.  
+
+Ionic does not use the Angular 2 Router, so references to that have been removed.
+
+This is work in progress.  
+
+
+
 # Angular2-Token
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/neroniaky/angular2-token.svg)](https://greenkeeper.io/)
