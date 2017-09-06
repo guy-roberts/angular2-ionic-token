@@ -4,4 +4,3 @@ function __export(m) {
 }
 __export(require('./lib/angular2-token.service'));
 __export(require('./lib/angular2-token.model'));
-__export(require('./lib/a2t-ui/a2t-ui.module'));

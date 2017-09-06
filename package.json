@@ -1,5 +1,5 @@
 {
-  "name": "angular2-token",
+  "name": "angular2-ionic-token",
   "version": "0.2.0-beta.12",
   "description": "Angular2 service for token based authentication",
   "main": "./angular2-token.js",
@@ -72,5 +72,8 @@
   "bugs": {
     "url": "https://github.com/neroniaky/angular2-token/issues"
   },
-  "homepage": "https://github.com/neroniaky/angular2-token#readme"
+  "homepage": "https://github.com/neroniaky/angular2-token#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
